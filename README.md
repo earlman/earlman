@@ -17,17 +17,25 @@
   <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=" />
 </a>
 
+If you want an ultra-clean version, you can skip Shields.io and directly use the LinkedIn logo:
+
 <a href="https://www.linkedin.com/in/earljustin/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
 </a>
+
+1️⃣ Simple Flat Icon (Shields.io version)
 
 <a href="https://www.linkedin.com/in/earljustin/" target="_blank">
   <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=" width="24" />
 </a>
 
+2️⃣ Direct LinkedIn SVG Icon (No Shields.io)
+
 <a href="https://www.linkedin.com/in/earljustin/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
 </a>
+
+3️⃣ Transparent LinkedIn Icon (Monochrome Option)
 
 <a href="https://www.linkedin.com/in/earljustin/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" style="filter: invert(27%) sepia(89%) saturate(1964%) hue-rotate(185deg) brightness(94%) contrast(92%);" />
