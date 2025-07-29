@@ -3,6 +3,36 @@
 <a href="https://www.linkedin.com/in/earljustin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:contact@earljman.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<!-- Minimal flat badge -->
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Icon only -->
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=" />
+</a>
+
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
+</a>
+
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=" width="24" />
+</a>
+
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
+</a>
+
+<a href="https://www.linkedin.com/in/earljustin/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" style="filter: invert(27%) sepia(89%) saturate(1964%) hue-rotate(185deg) brightness(94%) contrast(92%);" />
+</a>
+
 ## 👨‍💻 About Me
 
 I build elegant, effective solutions. My detail-oriented approach stems from an unconventional start: Chemical Engineering. That background taught me to break down complex systems. Now, I apply this to architecting front-end systems and designing user-friendly web applications.
