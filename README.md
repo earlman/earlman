@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a detail-oriented developer with a passion for creating elegant and effective solutions. My journey into tech is a bit unconventional: I started my career with a degree in Chemical Engineering and a foundation in analytical problem-solving. This background taught me how to break down complex systems, a skill I now apply to architecting front-end systems and designing user-friendly web applications.
+I build elegant, effective solutions. My detail-oriented approach stems from an unconventional start: Chemical Engineering. That background taught me to break down complex systems. Now, I apply this to architecting front-end systems and designing user-friendly web applications.
 
-For the past 5+ years, I've been honing my skills as a freelance developer, working with a diverse range of clients from small businesses to startups. I thrive on the challenge of turning a client's vision into a reality and have experience with a wide variety of technologies and build systems. I'm always eager to learn and grow, and I'm currently looking for a long-term team environment where I can contribute to larger, more complex projects.
+For five years, I freelanced, partnering with diverse clients from small businesses to startups. I transform their visions into reality, leveraging varied technologies and build systems. Eager to grow, I seek a long-term team to tackle larger, more complex projects.
 
 ## 🚀 My Skills
 
