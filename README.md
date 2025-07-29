@@ -50,9 +50,3 @@ For the past 5+ years, I've been honing my skills as a freelance developer, work
 
 * **Gridsome:** Improved a plugin that allows the use of Wordpress as a headless GraphQL source.
 * **Magic Mirror:** Implemented CSS properties and added to the documentation for the open-source modular smart mirror platform.
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=earlman&show_icons=true&theme=radical" alt="earlman's GitHub stats" />
-</p>
